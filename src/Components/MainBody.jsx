@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import "./MainBody.css";
-import MyImage from "../assets/IMG_20240312_182210_089.jpg";
+import MyImage from "../assets/WhatsApp Image 2024-06-10 at 16.42.51.jpeg";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import myResume from "D:/Documents/projects/myportfolio/src/assets/Vayigandla Sai Charan Resume.pdf"

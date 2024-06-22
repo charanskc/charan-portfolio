@@ -13,7 +13,7 @@
     border-radius: 50%;
     background-color: transparent;
     margin-left: 20%;
-    object-fit:cover;
+    object-fit:contain;
 }
 
 .mainprofile__content{
